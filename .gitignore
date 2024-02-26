@@ -1,0 +1,8 @@
+.metals/
+.scala-build/
+.vscode/
+*.class
+*.log
+target/
+.idea/
+project/
