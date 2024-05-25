@@ -9,3 +9,4 @@ project/
 NASA_access_log_Jul95
 .bloop/
 .bsp/
+venv/
